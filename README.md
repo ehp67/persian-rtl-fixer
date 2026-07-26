@@ -1,3 +1,4 @@
+<img width="128" height="128" alt="icon128" src="https://github.com/user-attachments/assets/bbb04605-e337-4e93-a305-c2bc9c24c853" />
 # persian-rtl-fixer
 اکستنشن کروم برای رفع بهم ریختگی در متنهایی که زبان فارسی و انگلیسی باهم ادغام هستن
 # 🔤 اصلاح‌کننده خودکار نوشتار فارسی-انگلیسی
